@@ -84,8 +84,6 @@ players[name] = {
  How to Run
 
 ### Requirements
-
-- Python 3.x
 - VS Code or another Python IDE
 
 Steps
